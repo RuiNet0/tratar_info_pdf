@@ -2,4 +2,4 @@ fastapi
 uvicorn
 python-multipart
 PyMuPDF
-stopwords
+nltk
