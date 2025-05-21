@@ -1,5 +1,5 @@
+fastapi
+uvicorn
+python-multipart
 PyMuPDF
-streamlit
-re
-nltk
-spacy
+stopwords
